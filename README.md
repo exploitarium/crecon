@@ -14,7 +14,7 @@ pkg install python git nmap
 pip install requests beautifulsoup4 dnspython cryptography
 
 # Download and run
-git clone https://github.com/your-repo/crecon.git
+git clone https://github.com/exploitarium/crecon.git
 cd crecon
 chmod +x crecon.py
 ./crecon.py example.com
